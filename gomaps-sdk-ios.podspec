@@ -11,6 +11,6 @@ Pod::Spec.new do |spec|
     spec.ios.deployment_target = '12.0'
   
     spec.ios.vendored_frameworks = [
-      "Framework/VNPT.xcframework",
+      "Framework/VNPTMap.xcframework",
     ]
   end
