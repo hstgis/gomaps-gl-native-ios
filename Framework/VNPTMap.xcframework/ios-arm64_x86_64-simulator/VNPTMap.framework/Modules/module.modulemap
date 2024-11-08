@@ -1,0 +1,6 @@
+framework module VNPTMap {
+  umbrella header "VNPTMap.h"
+  export *
+
+  module * { export * }
+}
